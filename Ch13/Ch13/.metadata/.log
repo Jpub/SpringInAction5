@@ -1,0 +1,221 @@
+!SESSION 2019-05-07 10:06:14.717 -----------------------------------------------
+eclipse.buildId=4.2.1.201904170946-RELEASE
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2019-05-07 10:07:27.639
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-05-07 10:07:27.639
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-07 10:07:28.025
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY com.genuitec.eclipse.code.ui 1 0 2019-05-07 10:07:30.530
+!MESSAGE CodeMix Engine will be started momentarily to support development activities
+
+!ENTRY org.eclipse.jface 2 0 2019-05-07 10:07:31.215
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-05-07 10:07:31.215
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@17d837ab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4e77f29e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-05-07 10:07:45.910
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\JC-S'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-05-07 10:07:50.402
+!MESSAGE Initializing CodeMix Engine's settings file at C:\Spring5-Source-Code\ch13\.metadata\codemix.code-workspace
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-05-07 10:07:50.502
+!MESSAGE CodeMix Engine engine has been started
+
+!ENTRY com.genuitec.eclipse.code.core 2 0 2019-05-07 10:08:54.199
+!MESSAGE The CodeMix Engine did not trigger a Ready event in a reasonable amount of time; attempting extensions retrieval.
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-05-07 10:08:54.291
+!MESSAGE The CodeMix Engine was able to receive extensions, continuing with initialization.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:16:56.142
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:16:56.156
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2857dbe3[org.springframework.tooling.boot.ls:1.6.0.201904170912(id=974)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:16:56.163
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:16:56.390
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.272
+!MESSAGE Boot LS startup time from start to initialized: 8062ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.469
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zVISYArp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.475
+!MESSAGE subscribing to classpath changes: sts4.classpath.zVISYArp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.486
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.497
+!MESSAGE subsribers = [sts4.classpath.zVISYArp]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.539
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.650
+!MESSAGE project ingredient-service ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.657
+!MESSAGE project ingredient-client ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.663
+!MESSAGE Preparing classpath changed notification ingredient-service
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.670
+!MESSAGE project service-registry ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.677
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-05-07 10:17:04.685
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.707
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.714
+!MESSAGE classpath=157 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.781
+!MESSAGE executing callback sts4.classpath.zVISYArp ingredient-service false 157
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:04.795
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zVISYArp => OK
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-05-07 10:17:04.841
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.lambda$11(LSBasedHover.java:236)
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.collect(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.lambda$10(LSBasedHover.java:245)
+	at java.util.concurrent.CompletableFuture.uniApply(Unknown Source)
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source)
+	at java.util.concurrent.CompletableFuture$Completion.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:213)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.165
+!MESSAGE executing callback sts4.classpath.zVISYArp SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.173
+!MESSAGE Preparing classpath changed notification service-registry
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.184
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.213
+!MESSAGE classpath=168 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.233
+!MESSAGE executing callback sts4.classpath.zVISYArp service-registry false 168
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.281
+!MESSAGE executing callback sts4.classpath.zVISYArp SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.289
+!MESSAGE Preparing classpath changed notification ingredient-client
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.302
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.319
+!MESSAGE classpath=173 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.326
+!MESSAGE executing callback sts4.classpath.zVISYArp ingredient-client false 173
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:17:05.467
+!MESSAGE executing callback sts4.classpath.zVISYArp SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-05-07 10:17:07.644
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:22:18.287
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zVISYArp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:22:18.296
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.zVISYArp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:22:18.304
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-07 10:22:18.311
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zVISYArp => OK

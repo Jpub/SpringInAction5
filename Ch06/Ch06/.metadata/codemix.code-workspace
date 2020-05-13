@@ -1,0 +1,14 @@
+{"folders":[
+        {
+            "path": "C:\\Spring5-Source-Code\\ch06\\tacocloud-ui"
+        }
+    ],
+    "settings": {
+        "javascript.referencesCodeLens.enabled": false,
+        "editor.suggest.filterGraceful": false,
+        "typescript.implementationsCodeLens.enabled": false,
+        "editor.quickSuggestionsDelay": 200,
+        "typescript.referencesCodeLens.enabled": false,
+        "editor.detectIndentation": false
+    }
+}

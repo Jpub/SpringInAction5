@@ -1,0 +1,201 @@
+[2019-04-24 11:21:42.071] [sharedprocess] [info] main {"machineId":"1ba0a1f7-afb6-4fe8-a3ad-7a8d1ee017d5"}
+[2019-04-24 11:21:42.290] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 11:21:42.324] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:21:49.484] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 11:21:49.486] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 11:21:50.250] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:21:50.253] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:21:50.563] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 11:21:51.609] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 11:21:51.694] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 11:21:52.281] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 11:21:54.467] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:21:54.470] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:21:54.474] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:21:55.300] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 11:21:55.301] [sharedprocess] [info] Installing the extension: codemix.angular
+[2019-04-24 11:21:55.333] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.codemix.angular-0.9.4: codemix.angular
+[2019-04-24 11:21:55.335] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\codemix.angular-0.9.4
+[2019-04-24 11:21:55.335] [sharedprocess] [info] Installation completed. codemix.angular
+[2019-04-24 11:21:55.336] [sharedprocess] [info] Successfully installed the extension: codemix.angular
+[2019-04-24 11:21:55.564] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-24 11:21:55.748] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:21:55.774] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-24 11:21:58.418] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-24 11:21:58.418] [sharedprocess] [info] Installing the extension: formulahendry.auto-close-tag
+[2019-04-24 11:21:59.910] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag
+[2019-04-24 11:21:59.987] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\formulahendry.auto-close-tag-0.5.6
+[2019-04-24 11:22:00.003] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag
+[2019-04-24 11:22:00.004] [sharedprocess] [info] Successfully installed the extension: formulahendry.auto-close-tag
+[2019-04-24 11:22:00.017] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-24 11:22:00.053] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:22:00.084] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-24 11:22:03.706] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-24 11:22:03.706] [sharedprocess] [info] Installing the extension: mkaufman.htmlhint
+[2019-04-24 11:22:22.268] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-24 11:23:52.755] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.mkaufman.htmlhint-0.6.0: mkaufman.htmlhint
+[2019-04-24 11:23:52.762] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\mkaufman.htmlhint-0.6.0
+[2019-04-24 11:23:52.763] [sharedprocess] [info] Installation completed. mkaufman.htmlhint
+[2019-04-24 11:23:52.763] [sharedprocess] [info] Successfully installed the extension: mkaufman.htmlhint
+[2019-04-24 11:23:52.936] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-24 11:23:53.467] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:23:53.492] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-24 11:23:53.518] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-24 11:23:53.518] [sharedprocess] [info] Installing the extension: ms-vscode.vscode-typescript-tslint-plugin
+[2019-04-24 11:23:55.239] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.ms-vscode.vscode-typescript-tslint-plugin-1.0.0: ms-vscode.vscode-typescript-tslint-plugin
+[2019-04-24 11:23:55.240] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\ms-vscode.vscode-typescript-tslint-plugin-1.0.0
+[2019-04-24 11:23:55.241] [sharedprocess] [info] Installation completed. ms-vscode.vscode-typescript-tslint-plugin
+[2019-04-24 11:23:55.241] [sharedprocess] [info] Successfully installed the extension: ms-vscode.vscode-typescript-tslint-plugin
+[2019-04-24 11:23:55.254] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-24 11:23:55.289] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:23:55.326] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-24 11:23:55.338] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-24 11:23:55.338] [sharedprocess] [info] Installing the extension: codemix.web
+[2019-04-24 11:23:55.361] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.codemix.web-0.9.4: codemix.web
+[2019-04-24 11:23:55.363] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\codemix.web-0.9.4
+[2019-04-24 11:23:55.364] [sharedprocess] [info] Installation completed. codemix.web
+[2019-04-24 11:23:55.364] [sharedprocess] [info] Successfully installed the extension: codemix.web
+[2019-04-24 11:23:55.377] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-24 11:23:55.390] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:23:55.413] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-24 11:23:55.430] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-24 11:23:55.430] [sharedprocess] [info] Installing the extension: christian-kohler.path-intellisense
+[2019-04-24 11:23:56.924] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense
+[2019-04-24 11:23:56.925] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\christian-kohler.path-intellisense-1.4.2
+[2019-04-24 11:23:56.926] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense
+[2019-04-24 11:23:56.927] [sharedprocess] [info] Successfully installed the extension: christian-kohler.path-intellisense
+[2019-04-24 11:23:56.942] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-24 11:23:56.965] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:23:56.988] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-24 11:23:57.008] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-24 11:23:57.008] [sharedprocess] [info] Installing the extension: codemix.node
+[2019-04-24 11:23:57.047] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.codemix.node-0.9.3: codemix.node
+[2019-04-24 11:23:57.048] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\codemix.node-0.9.3
+[2019-04-24 11:23:57.049] [sharedprocess] [info] Installation completed. codemix.node
+[2019-04-24 11:23:57.049] [sharedprocess] [info] Successfully installed the extension: codemix.node
+[2019-04-24 11:23:57.058] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-24 11:23:57.076] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:23:57.098] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-24 11:23:57.117] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-24 11:23:57.117] [sharedprocess] [info] Installing the extension: formulahendry.code-runner
+[2019-04-24 11:24:06.402] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.formulahendry.code-runner-0.9.7: formulahendry.code-runner
+[2019-04-24 11:24:06.404] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\formulahendry.code-runner-0.9.7
+[2019-04-24 11:24:06.406] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2019-04-24 11:24:06.406] [sharedprocess] [info] Successfully installed the extension: formulahendry.code-runner
+[2019-04-24 11:24:06.457] [sharedprocess] [info] Scanned user extensions: 8
+[2019-04-24 11:24:06.485] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:24:06.524] [sharedprocess] [info] Scanned user extensions: 8
+[2019-04-24 11:24:06.552] [sharedprocess] [info] Scanned user extensions: 8
+[2019-04-24 11:24:06.552] [sharedprocess] [info] Installing the extension: msjsdiag.debugger-for-chrome
+[2019-04-24 11:24:11.212] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.msjsdiag.debugger-for-chrome-4.11.3: msjsdiag.debugger-for-chrome
+[2019-04-24 11:24:11.215] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\msjsdiag.debugger-for-chrome-4.11.3
+[2019-04-24 11:24:11.217] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2019-04-24 11:24:11.218] [sharedprocess] [info] Successfully installed the extension: msjsdiag.debugger-for-chrome
+[2019-04-24 11:24:11.232] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-24 11:24:11.277] [sharedprocess] [info] Scanned system extensions: 73
+[2019-04-24 11:24:11.370] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-24 11:24:11.516] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-24 11:24:11.516] [sharedprocess] [info] Installing the extension: angular.ng-template
+[2019-04-24 14:21:41.423] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-24 14:23:04.428] [sharedprocess] [info] Extracted extension to C:\Users\JC-S\.codemix\extensions\.angular.ng-template-0.1.11: angular.ng-template
+[2019-04-24 14:23:04.444] [sharedprocess] [info] Renamed to C:\Users\JC-S\.codemix\extensions\angular.ng-template-0.1.11
+[2019-04-24 14:23:04.447] [sharedprocess] [info] Installation completed. angular.ng-template
+[2019-04-24 14:23:04.447] [sharedprocess] [info] Successfully installed the extension: angular.ng-template
+[2019-04-24 14:26:41.625] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 14:31:41.659] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 14:36:41.693] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 14:41:41.720] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 14:46:41.741] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 14:51:41.771] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 14:56:41.795] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:01:41.833] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:06:41.869] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:11:41.914] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:16:41.950] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:21:42.001] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:26:42.028] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:31:42.053] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:36:42.087] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:41:42.137] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:46:42.166] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:51:42.204] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 15:56:42.239] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:01:42.283] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:06:42.324] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:11:42.350] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:16:42.372] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:21:42.405] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:26:42.438] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:31:42.469] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:36:42.489] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:41:42.511] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:46:42.545] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:51:42.583] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 16:56:42.613] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:01:42.647] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:06:42.687] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:11:42.728] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:16:42.773] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:21:42.808] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:26:42.851] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:31:42.889] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:36:42.925] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:41:42.954] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:46:42.984] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:51:43.019] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 17:56:43.057] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:01:43.089] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:06:43.116] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:11:43.151] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:16:43.183] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:21:43.217] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:26:43.334] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:31:43.406] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:36:43.614] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:41:43.656] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:46:43.698] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:51:43.742] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 18:56:43.782] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 19:01:43.820] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 19:06:43.849] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 19:11:43.891] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 19:16:43.946] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 19:21:43.969] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 19:26:43.990] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-24 19:31:44.012] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:14:51.377] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:19:51.397] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:24:51.417] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:29:51.441] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:34:51.611] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:39:51.642] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:44:51.679] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:49:51.708] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:54:51.777] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 05:59:51.824] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:04:51.922] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:09:52.043] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:14:52.069] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:19:52.100] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:24:52.257] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:29:52.296] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:34:52.335] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:39:52.395] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:44:52.431] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:49:52.507] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:54:52.574] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 06:59:52.595] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:04:52.617] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:09:52.638] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:14:52.658] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:19:52.679] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:24:52.779] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:29:52.822] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:34:52.842] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:39:52.978] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:44:53.032] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:49:53.073] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:54:53.098] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 07:59:53.121] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 08:04:53.215] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-25 08:09:53.240] [sharedprocess] [info] Scanned user extensions: 10

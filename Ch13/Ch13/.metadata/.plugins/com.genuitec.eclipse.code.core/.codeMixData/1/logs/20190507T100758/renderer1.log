@@ -1,0 +1,12 @@
+[2019-05-07 10:08:20.822] [renderer1] [info] 2019-05-07T01:08:20.792Z - [viper-service] ViperService is initializing
+[2019-05-07 10:08:24.466] [renderer1] [info] 2019-05-07T01:08:24.465Z - [websocket] WebSocket client connected
+[2019-05-07 10:08:24.695] [renderer1] [info] no standard startup: not just one text editor
+[2019-05-07 10:08:25.231] [renderer1] [info] 2019-05-07T01:08:25.230Z - [tasks] Change in workspace roots
+[2019-05-07 10:08:26.005] [renderer1] [error] Cannot read property 'then' of null: TypeError: Cannot read property 'then' of null
+    at ExtensionHostProcessManager.start (file:///C:/Users/JC-S/.codemix/engine/resources/app/out/vs/workbench/workbench.main.js:179955:52)
+    at ExtensionService.<anonymous> (file:///C:/Users/JC-S/.codemix/engine/resources/app/out/vs/workbench/workbench.main.js:180572:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (file:///C:/Users/JC-S/.codemix/engine/resources/app/out/vs/workbench/workbench.main.js:1967:58)
+[2019-05-07 10:08:54.858] [renderer1] [info] 2019-05-07T01:08:54.855Z - [tasks] Received $refreshTasks
+[2019-05-07 10:09:20.100] [renderer1] [info] 2019-05-07T01:09:20.099Z - [tasks] Received $refreshTasks
+[2019-05-07 10:22:19.170] [renderer1] [info] 2019-05-07T01:22:19.169Z - [websocket] Communication Closed

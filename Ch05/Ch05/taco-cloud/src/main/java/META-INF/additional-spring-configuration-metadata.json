@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "taco.orders.page-size",
+      "type": "int",
+      "description": "Sets the maximum number of orders to display in a list."
+    }
+  ]
+}

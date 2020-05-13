@@ -1,0 +1,289 @@
+!SESSION 2019-04-03 18:57:28.334 -----------------------------------------------
+eclipse.buildId=4.1.2.201902210640-RELEASE
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data C:\Spring5-In-Action\Ch01 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2019-04-03 18:58:06.491
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-04-03 18:58:06.491
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3bcedb06,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f9a3325,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-04-03 18:58:32.488
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\JC-S'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:38.355
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:38.362
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4c5e123d[org.springframework.tooling.boot.ls:1.4.0.201902210636(id=620)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:38.369
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:38.519
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.471
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.jmqrsGtI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.478
+!MESSAGE subscribing to classpath changes: sts4.classpath.jmqrsGtI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.485
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.493
+!MESSAGE subsribers = [sts4.classpath.jmqrsGtI]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.498
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.507
+!MESSAGE project taco-cloud ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.514
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.520
+!MESSAGE Preparing classpath changed notification taco-cloud
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.527
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.jmqrsGtI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.533
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.546
+!MESSAGE classpath=86 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.552
+!MESSAGE executing callback sts4.classpath.jmqrsGtI taco-cloud false 86
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:14:42.628
+!MESSAGE executing callback sts4.classpath.jmqrsGtI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:15:04.625
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jmqrsGtI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:15:04.633
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.jmqrsGtI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:15:04.639
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:15:04.644
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jmqrsGtI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.602
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.SwigrAbI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.608
+!MESSAGE subscribing to classpath changes: sts4.classpath.SwigrAbI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.613
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.618
+!MESSAGE subsribers = [sts4.classpath.SwigrAbI]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.623
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.629
+!MESSAGE project taco-cloud ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.634
+!MESSAGE Preparing classpath changed notification taco-cloud
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.639
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.644
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.649
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.SwigrAbI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.656
+!MESSAGE classpath=86 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.661
+!MESSAGE executing callback sts4.classpath.SwigrAbI taco-cloud false 86
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:16:24.734
+!MESSAGE executing callback sts4.classpath.SwigrAbI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:18:23.209
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SwigrAbI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:18:23.216
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.SwigrAbI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:18:23.221
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:18:23.225
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SwigrAbI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.760
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rtkhFyHG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.766
+!MESSAGE subscribing to classpath changes: sts4.classpath.rtkhFyHG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.771
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.778
+!MESSAGE subsribers = [sts4.classpath.rtkhFyHG]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.782
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.788
+!MESSAGE project taco-cloud ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.794
+!MESSAGE Preparing classpath changed notification taco-cloud
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.798
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.804
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.809
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rtkhFyHG => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.822
+!MESSAGE classpath=86 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.828
+!MESSAGE executing callback sts4.classpath.rtkhFyHG taco-cloud false 86
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:19:04.883
+!MESSAGE executing callback sts4.classpath.rtkhFyHG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:21:16.633
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rtkhFyHG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:21:16.640
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.rtkhFyHG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:21:16.647
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:21:16.652
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rtkhFyHG => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.097
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.mkwDLFrZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.104
+!MESSAGE subscribing to classpath changes: sts4.classpath.mkwDLFrZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.111
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.117
+!MESSAGE subsribers = [sts4.classpath.mkwDLFrZ]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.124
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.131
+!MESSAGE project taco-cloud ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.138
+!MESSAGE Preparing classpath changed notification taco-cloud
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.144
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.151
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.157
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.mkwDLFrZ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.176
+!MESSAGE classpath=86 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.183
+!MESSAGE executing callback sts4.classpath.mkwDLFrZ taco-cloud false 86
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:27:19.259
+!MESSAGE executing callback sts4.classpath.mkwDLFrZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:36:29.495
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.mkwDLFrZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:36:29.503
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.mkwDLFrZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:36:29.510
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-03 19:36:29.515
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.mkwDLFrZ => OK
+!SESSION 2019-04-04 14:29:18.646 -----------------------------------------------
+eclipse.buildId=4.2.0.201903290612-RELEASE
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.egit.core 1 0 2019-04-04 14:29:35.914
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-04-04 14:29:37.049
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-04-04 14:29:37.049
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@191774d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@21ffc00e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-04-04 14:29:42.018
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\JC-S'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

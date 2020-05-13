@@ -1,0 +1,15 @@
+Search path: c:/Spring5-Source-Code/ch06/tacocloud-ui/src/app
+Config file name: c:/Spring5-Source-Code/ch06/tacocloud-ui/tsconfig.json
+Angular Language Service: 5.2.11
+TypeScript: 3.1.6
+getTemplateReferences: 2227ms
+Add recursive watcher for: c:/Spring5-Source-Code/ch06/tacocloud-ui
+Opened configuration file c:/Spring5-Source-Code/ch06/tacocloud-ui/tsconfig.json
+getDiagnostics: 3ms
+internal/process/next_tick.js:63
+          Reflect.apply(callback, undefined, tock.args);
+                  ^
+
+TypeError: Reflect.apply is not a function
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[Info  - 08:11:46] Connection to server got closed. Server will restart.
