@@ -1,7 +1,5 @@
 package tacos;
-
 import java.util.List;
-import java.util.Date;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -12,18 +10,19 @@ import javax.persistence.PrePersist;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
-
 import lombok.Data;
+import java.util.Date;
 
 @Data
 @Entity
 public class Taco {
 	
 	@Id
-    @GeneratedValue(strategy=GenerationType.AUTO)
+	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Long id;
-    private Date createdAt;
-
+	
+	private Date createdAt;
+	
 	@NotNull
 	@Size(min=5, message="Name must be at least 5 characters long")
 	private String name;
@@ -34,7 +33,6 @@ public class Taco {
 	
 	@PrePersist
 	void createdAt() {
-	  this.createdAt = new Date();
+		this.createdAt = new Date();
 	}
-
 }

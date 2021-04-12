@@ -1,0 +1,9 @@
+{
+	"properties": [
+		{
+			"name": "taco.orders.page-size",
+			"type": "int",
+			"description": "리스트에 보여줄 주문의 최대 개수를 설정한다."
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "d7e068be3bb737f672f2fd2dc7f2e2db418f2bf96d3dbb4cec6ca27f976e563f",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "c9a325636edc54ebaae1aa2464f55679",
+                "configURIPath": "file:///c%3A/Spring5-In-Action/Ch05/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e"
+}
